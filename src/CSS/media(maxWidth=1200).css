@@ -1,0 +1,80 @@
+@media screen and (max-width: 1200px) {
+    /* src/components/main/index.vue */
+    div.main-container {
+      width: 950px !important;
+    }
+
+    /* bannerBar.vue */
+    .bannerBar .banner-container {
+        width: 960px  !important;
+    }
+
+    /* nav.vue */
+    .nav-item .nav-web {
+        width: 960px !important;
+        text-align: center;
+    }
+    
+    .web-app.web-item{
+        position: relative !important;
+        width: 250px !important;
+        margin-right: 0px !important;
+        padding-right: 0px !important;
+        margin-left: 20px !important;
+    }
+
+    /* searchBar.vue */
+    .search-container {
+        width: 960px !important;
+    }
+      div.searchBox {
+        width: 420px !important;
+    }
+    div.search-container .meituan-logo {
+        padding-right: 40px !important;
+        min-width: 200px !important;
+    }
+
+
+    /* bannerRight.vue */
+    .sliderBox {
+        width: 470px !important;
+      }
+      .slider-img {
+        width: 470px !important;
+      }
+      .slider-img img {
+        width: 470px !important;
+      }
+    
+      .link_img_01,
+      .link_img_04 {
+        display: none !important;
+      }
+      .link_img_02,
+      .link_img_03 {
+        width: 230px !important;
+        background-position: 0% !important;
+      }
+
+    /* minsuInfo.vue */
+    .minsu-item .item-card .item-img {
+        width: 445px !important;
+        height: 250px !important;
+    }
+
+    /* mtlink.vue */
+    .row{
+      width: 840px !important;
+    }
+
+    /* recommendPro.vue */
+    .recommend-item {
+      width: 25% !important;
+    }
+    
+    /* common/navBar.vue */
+    .navBar{
+      width: 950px !important;
+    }
+}

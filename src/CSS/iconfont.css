@@ -1,0 +1,71 @@
+@font-face {
+    font-family: 'iconfont';
+    src: url('./font/iconfont.woff') format('woff');
+  }
+  
+  .iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin-right: 11px;
+    line-height: 18px;
+    /* vertical-align: top; */
+    vertical-align: bottom;
+  }
+  
+  /* 美食 */
+  .icon-food:before{ content: '\e60e';color:#FF8200;vertical-align:middle;line-height: 18px; }
+
+  /* 外卖 */
+  .icon-waimai:before{ content:'\e60a';color:#FFB500;vertical-align:middle;line-height: 18px; }
+
+  /* 酒店 */
+  .icon-hotel:before{ content:'\e616';color:#9B5E3E;vertical-align:middle;line-height: 18px; }
+  
+  /* 民宿 */
+  .icon-minsu:before{ content:'\e60c';color:#FFB500;vertical-align:middle;line-height: 18px; }
+
+  /* 猫眼 */
+  .icon-maoyan:before{ content:'\e612';color:#FF3D00;vertical-align:middle;line-height: 18px; }
+  
+  /* 火车票 飞机票 */
+  .icon-plane:before{ content:'\e615';color:#03A9F4;vertical-align:middle;line-height: 18px; }
+
+  /* 休闲娱乐 KTV */
+  .icon-ktv:before{ content:'\e607';color:#00BF96;vertical-align:middle;line-height: 18px; }
+  
+  /* 生活服务 */
+  .icon-life:before{ content:'\e614';color:#00BF96;vertical-align:middle;line-height: 18px; }
+
+  /* 丽人 美发  医学美容 */
+  .icon-beauty:before{ content:'\e60f';color:#FF4081;vertical-align:middle;line-height: 18px; }
+  
+  /* 结婚 婚纱摄影 婚宴 */
+  .icon-married:before{ content:'\e609';color:#FF4081;vertical-align:middle;line-height: 18px; }
+  
+  /* 亲子 儿童乐园 幼教 */
+  .icon-child:before{ content:'\e608';color:#FF4081;vertical-align:middle;line-height: 18px; }
+  
+  /* 运动健身 健身设施 */
+  .icon-sport:before{ content:'\e611';color:#03A9F4;vertical-align:middle;line-height: 18px; }
+  
+  /* 家装 建材 家居 */
+  .icon-decorate:before{ content:'\e60b';color:#00BF96;vertical-align:middle;line-height: 18px; }
+  
+  /* 学习培训 音乐培训 */
+  .icon-education:before{ content:'\e610';color:#00BF96;vertical-align:middle;line-height: 18px; }
+  
+  /* 医疗健康 宠物 爱车 */
+  .icon-medical:before{ content:'\e60d';color:#03A9F4;vertical-align:middle;line-height: 18px; }
+  
+  /* 酒吧 密室逃脱 */
+  .icon-bar:before{ content:'\e606';color:#00BF96;vertical-align:middle;line-height: 18px; }
+    
+  
+  /*  */
+  .icon-travel:before{ content:'\e613';color:#03A9F4;vertical-align:middle;line-height: 18px; }
+  
+
+ 
